@@ -1,0 +1,15 @@
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\bin\Debug\net6.0\Projeto_Calc.Console.exe
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\bin\Debug\net6.0\Projeto_Calc.Console.deps.json
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\bin\Debug\net6.0\Projeto_Calc.Console.runtimeconfig.json
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\bin\Debug\net6.0\Projeto_Calc.Console.dll
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\bin\Debug\net6.0\Projeto_Calc.Console.pdb
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.csproj.AssemblyReference.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.AssemblyInfoInputs.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.AssemblyInfo.cs
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.csproj.CoreCompileInputs.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.dll
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\refint\Projeto_Calc.Console.dll
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.pdb
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\Projeto_Calc.Console.genruntimeconfig.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_Calc.Console\obj\Debug\net6.0\ref\Projeto_Calc.Console.dll
