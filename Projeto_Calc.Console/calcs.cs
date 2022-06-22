@@ -15,17 +15,17 @@ class calculadora
     {   
         return value1 + value2;  
     }
-    public int subtracao(int a, int b)
+    public int subtracao()
     {
-        return a - b;
+        return value1 - value2;
     }
-    public int multiplicacao(int a, int b)
+    public int multiplicacao()
     {
-        return a * b;
+        return value1 * value2;
     }
-    public int divisao(int a, int b)
+    public int divisao()
     {
-        return a / b;
+        return value1 / value2;
     }
 
 
