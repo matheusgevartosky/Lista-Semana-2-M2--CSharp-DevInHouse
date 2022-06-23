@@ -1,0 +1,15 @@
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\bin\Debug\net6.0\Projeto_BankAccount.exe
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\bin\Debug\net6.0\Projeto_BankAccount.deps.json
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\bin\Debug\net6.0\Projeto_BankAccount.runtimeconfig.json
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\bin\Debug\net6.0\Projeto_BankAccount.dll
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\bin\Debug\net6.0\Projeto_BankAccount.pdb
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.csproj.AssemblyReference.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.AssemblyInfoInputs.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.AssemblyInfo.cs
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.dll
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\refint\Projeto_BankAccount.dll
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.pdb
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\Projeto_BankAccount.genruntimeconfig.cache
+C:\Users\5717\Desktop\Lista-Semana1-M2--CSharp-DevInHouse\Projeto_BankAccount\obj\Debug\net6.0\ref\Projeto_BankAccount.dll
