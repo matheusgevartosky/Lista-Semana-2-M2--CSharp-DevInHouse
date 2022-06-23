@@ -19,8 +19,9 @@
                 switch (SelectedOp)
                 {
                     case OpcaoMenu.saldo:
+                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
                         var saldo = account.saldo;
-                        Console.WriteLine($"Seu salde é de R${saldo}");
+                        Console.WriteLine($"\n Seu salde é de R${saldo}\n");
                         break;
 
                     case OpcaoMenu.extrato:
@@ -28,12 +29,14 @@
                         break;
 
                     case OpcaoMenu.deposito:
+                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
                         Console.Write("Insira o valor que será depositado: ");
                         var deposito =double.Parse(Console.ReadLine());
                         account.deposito(deposito);
                         break;
 
                     case OpcaoMenu.saque:
+                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
                         Console.Write("Insira o valor que será sacado: ");
                         var saque =double.Parse(Console.ReadLine());
                         account.saque(saque);
@@ -41,6 +44,7 @@
 
                     case OpcaoMenu.sair:
                     default:
+                    Console.ForegroundColor = ConsoleColor.DarkMagenta;
                         Console.WriteLine("Logout");
                         Console.WriteLine("Obrigado, nos vemos em breve!");
                         condicao = false;
@@ -50,6 +54,7 @@
 
             static void MostraMenu()
             {
+                Console.ForegroundColor = ConsoleColor.DarkMagenta;
                 Console.WriteLine("\n----------------DevInBank-----------------\n");
                 Console.WriteLine("Digite a operação desejada:");
                 Console.WriteLine("1 - Saldo");
